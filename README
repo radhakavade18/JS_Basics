@@ -1,0 +1,5 @@
+1. Array-concat : merge 2 or more arrays in one array
+2. Array-reverse : impliment inbuilt method of array reverse
+3. counter2 : function which returns object of functions - increment, decrement, reset
+4. reverseStringInArr : reverse the word in string which is having odd number of length in the same place
+5. testCase-EqualandNotEqual : to be or not to be
